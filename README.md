@@ -2,7 +2,12 @@
 
 ## For Linux:
 
-### Apply:
+### Autostart:
+
+1. Copy [.Xmodmap](.Xmodmap) file to `~/` (or to any location)
+2. Add command to autostart: `xmodmap ~/.Xmodmap`
+
+### Or manual in terminal:
 ```bash
 xmodmap -e 'keysym XF86AudioMute = F1'
 xmodmap -e 'keycode 67 = XF86AudioMute'

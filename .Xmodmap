@@ -1,0 +1,26 @@
+keysym XF86AudioMute = F1
+keycode 67 = XF86AudioMute
+
+keysym XF86AudioLowerVolume = F2
+keycode 68 = XF86AudioLowerVolume
+
+keysym XF86AudioRaiseVolume = F3
+keycode 69 = XF86AudioRaiseVolume
+
+keysym XF86AudioPrev = F4
+keycode 70 = XF86AudioPrev
+
+keysym XF86AudioPlay = F5
+keycode 71 = XF86AudioPlay
+
+keysym XF86AudioNext = F6
+keycode 72 = XF86AudioNext
+
+keysym XF86MonBrightnessDown = F7
+keycode 73 = XF86MonBrightnessDown
+
+keysym XF86MonBrightnessUp = F8
+keycode 74 = XF86MonBrightnessUp
+
+keysym XF86TouchpadToggle = F12
+keycode 96 = XF86TouchpadToggle
