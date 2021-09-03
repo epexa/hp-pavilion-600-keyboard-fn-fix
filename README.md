@@ -27,6 +27,9 @@ xmodmap -e 'keycode 73 = XF86MonBrightnessDown'
 
 xmodmap -e 'keysym XF86MonBrightnessUp = F8'
 xmodmap -e 'keycode 74 = XF86MonBrightnessUp'
+
+xmodmap -e 'keysym XF86TouchpadToggle = F12'
+xmodmap -e 'keycode 96 = XF86TouchpadToggle'
 ```
 
 ### Reset:
