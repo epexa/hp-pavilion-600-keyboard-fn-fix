@@ -6,6 +6,7 @@
 
 1. Copy [.Xmodmap](.Xmodmap) file to `~/` (or to any location)
 2. Add command to autostart: `xmodmap ~/.Xmodmap`
+3. Reboot!
 
 ### Or manual in terminal:
 ```bash
